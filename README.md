@@ -1,5 +1,5 @@
 # Intro 
-TLDR; This is Virus Total (https://www.virustotal.com/) extension for Nautilus (Gnome file manager on Linux) This can be used as poor's man AV. After installing extension, select file & Righ-Click-->Properties->Virus_Total. You'll see reports like these:
+This is Virus Total (https://www.virustotal.com/) extension for Nautilus (Gnome file manager on Linux) This can be used as poor's man AV. After installing extension, select file & Righ-Click-->Properties->Virus_Total. You'll see reports like these:
 
 ![NotFound](https://github.com/shvechkov/nautilus_virustotal/blob/main/reports.png?raw=true)
 

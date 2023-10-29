@@ -1,11 +1,7 @@
 # Intro 
 TLDR; This is Virus Total (https://www.virustotal.com/) extension for Nautilus (Gnome file manager on Linux) If you download files and don't have antivirus then this can be used as poor's man AV. After installing extension, select file & Righ-Click-->Properties->Virus_Total. You'll see reports like these:
 
-![NotFound](https://github.com/shvechkov/nautilus_virustotal/blob/main/vtreport_notfound.png?raw=true)
-
-![OK](https://github.com/shvechkov/nautilus_virustotal/blob/main/vtreport_ok.png?raw=true)
-
-![Flagged](https://github.com/shvechkov/nautilus_virustotal/blob/main/vtreport_flagged.png?raw=true)
+![NotFound](https://github.com/shvechkov/nautilus_virustotal/blob/main/reports.png?raw=true)
 
 
 # Details 

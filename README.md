@@ -14,7 +14,7 @@ For plugin to work you first need to get a valid API KEY from Visrus Total (crea
 
 ## Instructions for Ubuntu 22.04.3 LTS 
 
-`git clone git clone git@github.com:shvechkov/nautilus_virustotal.git && source ${HOME}/.bashrc && cd nautilus_virustotal && install.sh`
+`git clone git@github.com:shvechkov/nautilus_virustotal.git && source ${HOME}/.bashrc && cd nautilus_virustotal && ./install.sh`
 
 - above gets gets repo with extension file, exports API Key variable and installs extension
 
